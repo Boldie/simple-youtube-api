@@ -81,7 +81,7 @@ class Channel():
         scope
             Sets the scope that the login will ask for
         auth_local_webserver
-            Wheter login process should use local auth webserver, set this to
+            Whether login process should use local auth webserver, set this to
             false if you are not doing this locally.
         oauth_flags
             Flags for the oauth2 cleint library which can be used to pass custom command
